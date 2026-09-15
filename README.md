@@ -22,6 +22,7 @@
 
 ## 📰 News
 
+- **[2026.08]** 👏 LuSNAR accepted for publication in TGRS!
 - **[2024.09]** 🎉 Paper submitted to TGRS and currently under review
 - **[2024.09]** 📝 arXiv v3 released with updated experimental results
 - **[2024.07]** 🚀 LuSNAR dataset and code publicly released
@@ -342,7 +343,7 @@ If you find LuSNAR useful in your research, please consider citing:
 
 ### 🌙 Building the Future of Autonomous Lunar Exploration 🚀
 
-**[Website](https://github.com/zqyu9/LuSNAR-dataset)** | **[Paper](https://arxiv.org/abs/2407.06512)** | **[Dataset](https://pan.cstcloud.cn/s/2Ie7D5PSLU)** | **[Issues](https://github.com/zqyu9/LuSNAR-dataset/issues)**
+**[Website](https://luoxubo.github.io/LuSNAR-dataset/)** | **[Paper](https://arxiv.org/abs/2407.06512)** | **[Dataset](https://pan.cstcloud.cn/s/2Ie7D5PSLU)** | **[Issues](https://github.com/zqyu9/LuSNAR-dataset/issues)**
 
 **Star ⭐ this repository if you find it helpful!**
 
